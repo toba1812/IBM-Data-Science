@@ -1,2 +1,2 @@
 # Test child branch
-print("Inside Chiled branch")
+print("Inside Child branch")
